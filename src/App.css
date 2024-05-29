@@ -32,6 +32,7 @@
 }
 .top-head{
   background-color: #1A3365;
+  background-image: url("assets/img1.jpeg");
     height: 115px;
     border-radius: 15px 15px 0 0;
     color: #fff;
